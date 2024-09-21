@@ -14,3 +14,10 @@ def example_function():
 
 # Contributors:
 # Author: Admin
+
+# Author: collegeguy11
+def add(a, b):
+    """
+    Adds two numbers and returns the result.
+    """
+    return a + b
