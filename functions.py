@@ -21,3 +21,12 @@ def add(a, b):
     Adds two numbers and returns the result.
     """
     return a + b
+
+# Driver Function
+def main():
+    # Example usage of the functions
+    result = add(3, 5)
+    print(f"Result of add function: {result}")
+
+if __name__ == "__main__":
+    main()
